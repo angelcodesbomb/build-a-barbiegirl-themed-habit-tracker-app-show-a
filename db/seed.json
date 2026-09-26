@@ -1,0 +1,14 @@
+{
+  "habits": [
+    { "id": "h1", "name": "Morning meditation", "streak": 5 },
+    { "id": "h2", "name": "Drink 8 glasses water", "streak": 12 },
+    { "id": "h3", "name": "Read 20 pages", "streak": 3 },
+    { "id": "h4", "name": "Evening walk", "streak": 7 },
+    { "id": "h5", "name": "Journal gratitude", "streak": 10 },
+    { "id": "h6", "name": "No sugar day", "streak": 2 },
+    { "id": "h7", "name": "Yoga session", "streak": 4 },
+    { "id": "h8", "name": "Learn guitar chords", "streak": 1 },
+    { "id": "h9", "name": "Call a friend", "streak": 6 },
+    { "id": "h10", "name": "Plan tomorrow", "streak": 8 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tables": {
+    "habits": {
+      "fields": {
+        "id": { "type": "id", "required": true },
+        "name": { "type": "string", "required": true },
+        "streak": { "type": "number", "required": true }
+      },
+      "relations": {}
+    }
+  }
+}
